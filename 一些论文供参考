@@ -1,0 +1,17 @@
+2018/4/24:
+
+TensorFlow手写汉字识别
+https://blog.csdn.net/zchang81/article/details/77085165
+
+模型架构参看论文：Deep Convolutional Network for Handwritten Chinese Character Recognition
+
+------
+
+如何用深度学习识别汉字？
+https://www.zhihu.com/question/53991536/answer/137494872
+
+论文： http://cs231n.stanford.edu/reports/2016/pdfs/428_Report.pdf
+github网址： https://github.com/soloice/Chinese-Character-Recognition
+
+------
+
